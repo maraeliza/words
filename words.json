@@ -47,6 +47,1058 @@
                 "habilitado",
                 "Pusch"
             ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Edição de evento",
+            "words": [
+                "agenda",
+                "evento",
+                "edição",
+                "editar",
+                "modificar",
+                "calendário",
+                "evento recorrente",
+                "evento único",
+                "google calendário",
+                "modo calendário",
+                "modo listagem",
+                "novo cadastro",
+                "pesquisa",
+                "pontuação",
+                "recorrente",
+                "relatórios",
+                "timesheet",
+                "visualização",
+                "workflow",
+                "configuração",
+                "utilização"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Exclusão de evento",
+            "words": [
+                "agenda",
+                "evento",
+                "exclusão",
+                "excluir",
+                "remover",
+                "deletar",
+                "calendário",
+                "evento recorrente",
+                "evento único",
+                "google calendário",
+                "modo calendário",
+                "modo listagem",
+                "novo cadastro",
+                "pesquisa",
+                "pontuação",
+                "recorrente",
+                "relatórios",
+                "timesheet",
+                "visualização",
+                "workflow",
+                "configuração",
+                "utilização"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Google Calendário",
+            "words": [
+                "agenda",
+                "google calendário",
+                "calendário",
+                "evento",
+                "evento recorrente",
+                "evento único",
+                "configuração",
+                "utilização"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Modo calendário",
+            "words": [
+                "agenda",
+                "modo calendário",
+                "calendário",
+                "visualização",
+                "configuração",
+                "utilização"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Modo listagem",
+            "words": [
+                "agenda",
+                "modo listagem",
+                "listagem",
+                "visualização",
+                "configuração",
+                "utilização"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Novo Cadastro",
+            "words": [
+                "agenda",
+                "novo cadastro",
+                "cadastro",
+                "configuração",
+                "utilização"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Pesquisa",
+            "words": [
+                "agenda",
+                "pesquisa",
+                "busca",
+                "consulta",
+                "visualização",
+                "configuração",
+                "utilização"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Pontuação",
+            "words": [
+                "agenda",
+                "pontuação",
+                "avaliação",
+                "pontuar",
+                "visualização",
+                "configuração",
+                "utilização"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Recorrente",
+            "words": [
+                "agenda",
+                "recorrente",
+                "repetição",
+                "repetir",
+                "visualização",
+                "configuração",
+                "utilização"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Relatórios",
+            "words": [
+                "agenda",
+                "relatórios",
+                "relatório",
+                "visualização",
+                "configuração",
+                "utilização"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Timesheet",
+            "words": [
+                "agenda",
+                "timesheet",
+                "horas trabalhadas",
+                "registro de horas",
+                "visualização",
+                "configuração",
+                "utilização"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Visualização",
+            "words": [
+                "agenda",
+                "visualização",
+                "exibição",
+                "ver",
+                "mostrar",
+                "configuração",
+                "utilização"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Workflow (configuração)",
+            "words": [
+                "agenda",
+                "workflow",
+                "configuração",
+                "fluxo de trabalho",
+                "visualização",
+                "utilização"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Workflow (utilização)",
+            "words": [
+                "agenda",
+                "workflow",
+                "utilização",
+                "uso",
+                "execução",
+                "ativar",
+                "desativar"
+            ]
+        },
+        {
+            "modulo": "Atendimento CS - Asaas",
+            "servico": "Atendimento do CS",
+            "words": [
+                "atendimento",
+                "cs",
+                "asaas",
+                "cliente",
+                "suporte",
+                "atender",
+                "consultoria"
+            ]
+        },
+        {
+            "modulo": "Base de Conhecimento",
+            "servico": "Base de Conhecimento",
+            "words": [
+                "base de conhecimento",
+                "documentação",
+                "ajuda",
+                "tutorial",
+                "suporte",
+                "informações"
+            ]
+        },
+        {
+            "modulo": "Chat Encerrado - Inatividade",
+            "servico": "Chat Encerrado - Inatividade",
+            "words": [
+                "chat",
+                "encerrado",
+                "inatividade",
+                "atendimento",
+                "cliente",
+                "suporte"
+            ]
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações  - Cadastro de Feriados",
+            "words": [
+                "configurações",
+                "cadastro",
+                "feriados",
+                "calendário",
+                "configurar"
+            ]
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações  - Centro de Custo",
+            "words": [
+                "configurações",
+                "centro de custo",
+                "gestão",
+                "financeiro",
+                "orçamento"
+            ]
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Cadastro de Usuário",
+            "words": [
+                "configurações",
+                "cadastro",
+                "usuário",
+                "conta",
+                "login",
+                "senha"
+            ]
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Campos Personalizados",
+            "words": [
+                "configurações",
+                "campos personalizados",
+                "configurar",
+                "personalização",
+                "dados"
+            ]
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Cargos e Senioridades",
+            "words": [
+                "configurações",
+                "cargos",
+                "senioridades",
+                "hierarquia",
+                "gestão"
+            ]
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Easycall",
+            "words": [
+                "configurações",
+                "easycall",
+                "integração",
+                "telefone",
+                "atendimento"
+            ]
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Gerenciador de Relatórios",
+            "words": [
+                "configurações",
+                "gerenciador de relatórios",
+                "configurar",
+                "relatórios",
+                "dados"
+            ]
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Gestão de Equipes",
+            "words": [
+                "configurações",
+                "gestão de equipes",
+                "equipes",
+                "colaboradores",
+                "organização"
+            ]
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Grupos e Tags",
+            "words": [
+                "configurações",
+                "grupos",
+                "tags",
+                "categorias",
+                "organização"
+            ]
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Histórico de Ações",
+            "words": [
+                "configurações",
+                "histórico de ações",
+                "registro",
+                "atividades",
+                "auditoria"
+            ]
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Informações e Segurança",
+            "words": [
+                "configurações",
+                "informações",
+                "segurança",
+                "proteção",
+                "privacidade"
+            ]
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Minha Conta",
+            "words": [
+                "configurações",
+                "minha conta",
+                "perfil",
+                "usuário",
+                "senha"
+            ]
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Tabela de Honorários",
+            "words": [
+                "configurações",
+                "tabela de honorários",
+                "valores",
+                "preços",
+                "serviços"
+            ]
+        },
+        {
+            "modulo": "Configurações de Faturamento - Asaas",
+            "servico": "Configurações de Faturamento - Asaas",
+            "words": [
+                "configurações",
+                "faturamento",
+                "asaas",
+                "financeiro",
+                "contabilidade"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard",
+            "words": [
+                "dashboard",
+                "painel",
+                "dados",
+                "informações",
+                "visualização"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Aniversariantes",
+            "words": [
+                "dashboard",
+                "aniversariantes",
+                "colaboradores",
+                "datas",
+                "celebração"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Contratos",
+            "words": [
+                "dashboard",
+                "contratos",
+                "acordos",
+                "documentos",
+                "financeiro"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Desempenho Usuário",
+            "words": [
+                "dashboard",
+                "desempenho",
+                "usuário",
+                "colaborador",
+                "performance"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Despesas Área",
+            "words": [
+                "dashboard",
+                "despesas",
+                "área",
+                "financeiro",
+                "custos"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Despesas Cliente",
+            "words": [
+                "dashboard",
+                "despesas",
+                "cliente",
+                "financeiro",
+                "custos"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Despesas Processuais",
+            "words": [
+                "dashboard",
+                "despesas",
+                "processuais",
+                "financeiro",
+                "custos"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - DRE",
+            "words": [
+                "dashboard",
+                "dre",
+                "demonstrativo",
+                "resultado",
+                "financeiro"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Faturamento",
+            "words": [
+                "dashboard",
+                "faturamento",
+                "receitas",
+                "financeiro",
+                "entradas"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Faturamento Advogado",
+            "words": [
+                "dashboard",
+                "faturamento",
+                "advogado",
+                "receitas",
+                "financeiro"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Faturamento Área",
+            "words": [
+                "dashboard",
+                "faturamento",
+                "área",
+                "receitas",
+                "financeiro"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Financeiro",
+            "words": [
+                "dashboard",
+                "financeiro",
+                "contabilidade",
+                "gestão",
+                "relatórios"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Fluxo de Caixa",
+            "words": [
+                "dashboard",
+                "fluxo de caixa",
+                "financeiro",
+                "entradas",
+                "saídas"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Intimações e Publicações",
+            "words": [
+                "dashboard",
+                "intimações",
+                "publicações",
+                "movimentações",
+                "processos"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Metas",
+            "words": [
+                "dashboard",
+                "metas",
+                "objetivos",
+                "alcançar",
+                "performance"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Novos Negócios",
+            "words": [
+                "dashboard",
+                "novos negócios",
+                "oportunidades",
+                "projetos",
+                "clientes"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Performance Eventos",
+            "words": [
+                "dashboard",
+                "performance",
+                "eventos",
+                "atividades",
+                "resultados"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Pessoas Tipo",
+            "words": [
+                "dashboard",
+                "pessoas",
+                "tipo",
+                "colaboradores",
+                "usuários"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Pontuação",
+            "words": [
+                "dashboard",
+                "pontuação",
+                "avaliação",
+                "performance",
+                "pontuar"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Processos Advogado",
+            "words": [
+                "dashboard",
+                "processos",
+                "advogado",
+                "casos",
+                "jurídico"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Processos Área",
+            "words": [
+                "dashboard",
+                "processos",
+                "área",
+                "jurídico",
+                "movimentações"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Processos Status",
+            "words": [
+                "dashboard",
+                "processos",
+                "status",
+                "jurídico",
+                "movimentações"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Projetos Consultivos",
+            "words": [
+                "dashboard",
+                "projetos consultivos",
+                "consultoria",
+                "projetos",
+                "estratégia"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Provisionamento",
+            "words": [
+                "dashboard",
+                "provisionamento",
+                "previsão",
+                "planejamento",
+                "estratégia"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Timesheet",
+            "words": [
+                "dashboard",
+                "timesheet",
+                "horas trabalhadas",
+                "registro de horas",
+                "controle de tempo"
+            ]
+        },
+        {
+            "modulo": "Despesas e Suprimentos - Debits e Compras",
+            "servico": "Despesas e Suprimentos - Debits e Compras",
+            "words": [
+                "despesas",
+                "suprimentos",
+                "debits",
+                "compras",
+                "financeiro"
+            ]
+        },
+        {
+            "modulo": "Despesas e Suprimentos - Estoque de Suprimentos",
+            "servico": "Despesas e Suprimentos - Estoque de Suprimentos",
+            "words": [
+                "despesas",
+                "suprimentos",
+                "estoque",
+                "controle",
+                "gerenciamento"
+            ]
+        },
+        {
+            "modulo": "Despesas e Suprimentos - Requisição de Suprimentos",
+            "servico": "Despesas e Suprimentos - Requisição de Suprimentos",
+            "words": [
+                "despesas",
+                "suprimentos",
+                "requisição",
+                "pedidos",
+                "solicitação"
+            ]
+        },
+        {
+            "modulo": "Exclusão de Dados",
+            "servico": "Exclusão de Dados",
+            "words": [
+                "exclusão",
+                "dados",
+                "remoção",
+                "apagar",
+                "deletar"
+            ]
+        },
+        {
+            "modulo": "FAQ - Treinamentos - Legal Academy",
+            "servico": "FAQ - Treinamentos - Legal Academy",
+            "words": [
+                "faq",
+                "treinamentos",
+                "legal academy",
+                "curso",
+                "aprendizado"
+            ]
+        },
+        {
+            "modulo": "Financeiro - Asaas",
+            "servico": "Financeiro - Asaas",
+            "words": [
+                "asaas",
+                "financeiro",
+                "boleto",
+                "cobrança",
+                "conta",
+                "banco",
+                "valor",
+                "documentação",
+                "pagamento"
+            ]
+        },
+        {
+            "modulo": "Financeiro - Contas Bancárias",
+            "servico": "Financeiro - Contas Bancárias",
+            "words": [
+                "financeiro",
+                "contas bancárias",
+                "conta",
+                "banco",
+                "transferência",
+                "saldo"
+            ]
+        },
+        {
+            "modulo": "Financeiro - Contratos",
+            "servico": "Financeiro - Contratos",
+            "words": [
+                "financeiro",
+                "contratos",
+                "acordos",
+                "documentos",
+                "jurídico"
+            ]
+        },
+        {
+            "modulo": "Financeiro - Despesas",
+            "servico": "Financeiro - Despesas",
+            "words": [
+                "financeiro",
+                "despesas",
+                "custos",
+                "gastos",
+                "pagamento"
+            ]
+        },
+        {
+            "modulo": "Financeiro - DRE",
+            "servico": "Financeiro - DRE",
+            "words": [
+                "financeiro",
+                "dre",
+                "demonstrativo",
+                "resultado",
+                "receitas"
+            ]
+        },
+        {
+            "modulo": "Financeiro - Emissão de Boleto",
+            "servico": "Financeiro - Emissão de Boleto",
+            "words": [
+                "financeiro",
+                "emissão",
+                "boleto",
+                "pagamento",
+                "cobrança"
+            ]
+        },
+        {
+            "modulo": "Financeiro - Fluxo de Caixa",
+            "servico": "Financeiro - Fluxo de Caixa",
+            "words": [
+                "financeiro",
+                "fluxo de caixa",
+                "entrada",
+                "saída",
+                "movimentação"
+            ]
+        },
+        {
+            "modulo": "Financeiro - Nota fiscal",
+            "servico": "Financeiro - Nota fiscal",
+            "words": [
+                "financeiro",
+                "nota fiscal",
+                "documentação",
+                "fiscal",
+                "tributos"
+            ]
+        },
+        {
+            "modulo": "Financeiro - Provisionamento",
+            "servico": "Financeiro - Provisionamento",
+            "words": [
+                "financeiro",
+                "provisionamento",
+                "planejamento",
+                "estratégia",
+                "previsão"
+            ]
+        },
+        {
+            "modulo": "Financeiro - Receitas",
+            "servico": "Financeiro - Receitas",
+            "words": [
+                "financeiro",
+                "receitas",
+                "entradas",
+                "ganho",
+                "lucro"
+            ]
+        },
+        {
+            "modulo": "Financeiro - Split - Asaas",
+            "servico": "Financeiro - Split - Asaas",
+            "words": [
+                "asaas",
+                "financeiro",
+                "split",
+                "divisão",
+                "conta"
+            ]
+        },
+        {
+            "modulo": "Gestão Estratégica",
+            "servico": "Gestão Estratégica - Análise SWOT",
+            "words": [
+                "gestão estratégica",
+                "análise swot",
+                "estratégia",
+                "planejamento",
+                "análise"
+            ]
+        },
+        {
+            "modulo": "Gestão Estratégica",
+            "servico": "Gestão Estratégica - Manual de Procedimentos",
+            "words": [
+                "gestão estratégica",
+                "manual de procedimentos",
+                "processos",
+                "documentação",
+                "padronização"
+            ]
+        },
+        {
+            "modulo": "Gestão Estratégica",
+            "servico": "Gestão Estratégica - Marketing",
+            "words": [
+                "gestão estratégica",
+                "marketing",
+                "promoção",
+                "divulgação",
+                "publicidade"
+            ]
+        },
+        {
+            "modulo": "Gestão Estratégica",
+            "servico": "Gestão Estratégica - Metas e Orçamentos",
+            "words": [
+                "gestão estratégica",
+                "metas",
+                "orçamento",
+                "planejamento",
+                "estratégia"
+            ]
+        },
+        {
+            "modulo": "Gestão Estratégica",
+            "servico": "Gestão Estratégica - Modelo de Negócio",
+            "words": [
+                "gestão estratégica",
+                "modelo de negócio",
+                "empreendimento",
+                "planejamento",
+                "estratégia"
+            ]
+        },
+        {
+            "modulo": "Gestão Estratégica",
+            "servico": "Gestão Estratégica - Planejamento Estratégico",
+            "words": [
+                "gestão estratégica",
+                "planejamento estratégico",
+                "estratégia",
+                "metas",
+                "planejamento"
+            ]
+        },
+        {
+            "modulo": "Gestão Estratégica",
+            "servico": "Gestão Estratégica - Segmentação de Mercado",
+            "words": [
+                "gestão estratégica",
+                "segmentação de mercado",
+                "mercado",
+                "clientes",
+                "estratégia"
+            ]
+        },
+        {
+            "modulo": "Informações de API",
+            "servico": "Informações de API",
+            "words": [
+                "informações",
+                "api",
+                "integração",
+                "dados",
+                "serviços"
+            ]
+        },
+        {
+            "modulo": "Instabilidade/Travamento",
+            "servico": "Instabilidade/Travamento",
+            "words": [
+                "instabilidade",
+                "travamento",
+                "problema",
+                "erro",
+                "falha"
+            ]
+        },
+        {
+            "modulo": "Integração do Site do Escritório com o EasyJur",
+            "servico": "Integração do Site do Escritório com o EasyJur",
+            "words": [
+                "integração",
+                "site",
+                "escritório",
+                "easyjur",
+                "tecnologia"
+            ]
+        },
+        {
+            "modulo": "Juris.Ai",
+            "servico": "Juris.Ai",
+            "words": [
+                "juris.ai",
+                "jurídico",
+                "análise",
+                "pesquisa",
+                "inteligência artificial"
+            ]
+        },
+        {
+            "modulo": "Legal Analytic",
+            "servico": "Legal Analytic",
+            "words": [
+                "legal analytic",
+                "análise jurídica",
+                "dados",
+                "jurídico",
+                "estatísticas"
+            ]
+        },
+        {
+            "modulo": "Legal Analytics - Contencioso",
+            "servico": "Legal Analytics - Contencioso",
+            "words": [
+                "legal analytics",
+                "contencioso",
+                "dados",
+                "jurídico",
+                "estatísticas"
+            ]
+        },
+        {
+            "modulo": "Lentidão/Travamento",
+            "servico": "Lentidão/Travamento",
+            "words": [
+                "lentidão",
+                "travamento",
+                "problema",
+                "erro",
+                "falha"
+            ]
+        },
+        {
+            "modulo": "Mensagens",
+            "servico": "Mensagens",
+            "words": [
+                "mensagens",
+                "comunicação",
+                "notificação",
+                "envio",
+                "recebimento"
+            ]
+        },
+        {
+            "modulo": "Movimentações - Ação em Massa",
+            "servico": "Movimentações - Ação em Massa",
+            "words": [
+                "movimentações",
+                "ação em massa",
+                "processos",
+                "automatização",
+                "massivo"
+            ]
+        },
+        {
+            "modulo": "Movimentações - Andamentos",
+            "servico": "Movimentações - Andamentos",
+            "words": [
+                "movimentações",
+                "andamentos",
+                "processos",
+                "ações",
+                "jurídico"
+            ]
+        },
+        {
+            "modulo": "Movimentações - Audiências",
+            "servico": "Movimentações - Audiências",
+            "words": [
+                "movimentações",
+                "audiências",
+                "agendamento",
+                "jurídico",
+                "processos"
+            ]
         }
     ]
 }
