@@ -12,7 +12,55 @@
                 "termo",
                 "coleta",
                 "intimação",
-                "status"
+                "status",
+                "codigo",
+                "tribunais",
+                "tribunal",
+                "federal",
+                "TJPR",
+                "PROJUDI",
+                "ESAJ",
+                "PJE",
+                "alfa",
+                "numerico",
+                "numérico",
+                "dupla",
+                "autenticação",
+                "dois",
+                "fatores",
+                "2FA",
+                "2fa",
+                "authenticator",
+                "login",
+                "senha",
+                "captura",
+                "sistema",
+                "tribunal",
+                "sistemas",
+                "tribunais",
+                "movimentações",
+                "movimentação",
+                "status",
+                "logins",
+                "senhas",
+                "acesso",
+                "eletrônicas",
+                "ativo",
+                "validando",
+                "erro",
+                "captura",
+                "dupla",
+                "autenticação",
+                "dois",
+                "fatores",
+                "2FA",
+                "monitoramento",
+                "PROJUDI",
+                "EPROC",
+                "termo",
+                "monitorado",
+                "filtro",
+                "falha"
             ]
         },
         {
@@ -26,7 +74,19 @@
                 "banco",
                 "valor",
                 "documentação",
-                "pagamento"
+                "pagamento",
+                "pagamentos",
+                "pago",
+                "pagar",
+                "pagou",
+                "paguei",
+                "R$",
+                "vinculada",
+                "vinculado",
+                "finaceiro",
+                "finanças",
+                "financeiras",
+                "financeira"
             ]
         },
         {
@@ -48,16 +108,1331 @@
                 "Pusch"
             ]
         },
-         {
+        {
             "modulo": "Agenda",
             "servico": "Agenda - Edição de evento",
-            "words": []
+            "words": [
+                "compromissos",
+                "compromisso",
+                "editar",
+                "agendamento",
+                "salva",
+                "salvar",
+                "salvando",
+                "alterações",
+                "agenda",
+                "agendas",
+                "modificar",
+                "modificações",
+                "modificação",
+                "informação",
+                "informações",
+                "mudar",
+                "concluir",
+                "conclusão",
+                "eventos",
+                "tarefa",
+                "prazo",
+                "tarefas"
+            ]
         },
         {
             "modulo": "Agenda",
             "servico": "Agenda - Exclusão de evento",
+            "words": [
+                "compromissos",
+                "compromisso",
+                "agenda",
+                "agendamento",
+                "agendas",
+                "agendamentos",
+                "exclusão",
+                "excluir",
+                "deletar",
+                "apagar",
+                "delete",
+                "eventos",
+                "tarefa",
+                "prazo",
+                "tarefas"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Google Calendário",
+            "words": [
+                "compromissos",
+                "compromisso",
+                "agenda",
+                "agendamento",
+                "agendas",
+                "agendamentos",
+                "google",
+                "calendário",
+                "usuário",
+                "acesso",
+                "acessar",
+                "acessos",
+                "vínculo",
+                "calendar",
+                "calendars",
+                "eventos",
+                "tarefa",
+                "prazo",
+                "tarefas"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Modo calendário",
+            "words": [
+                "compromissos",
+                "compromisso",
+                "agenda",
+                "agendamento",
+                "agendas",
+                "agendamentos",
+                "calendário",
+                "modo",
+                "eventos",
+                "tarefa",
+                "prazo",
+                "tarefas"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Modo listagem",
+            "words": [
+                "compromissos",
+                "compromisso",
+                "compromissos",
+                "compromisso",
+                "agenda",
+                "agendamento",
+                "agendas",
+                "agendamentos",
+                "listagem",
+                "lista",
+                "alterar",
+                "mudar",
+                "modo",
+                "visualização",
+                "visualizar",
+                "ver"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Novo Cadastro",
+            "words": [
+                "compromissos",
+                "compromisso",
+                "agenda",
+                "agendamento",
+                "agendas",
+                "agendamentos",
+                "criar",
+                "novo",
+                "evento",
+                "adicionar",
+                "criei",
+                "cria",
+                "crio",
+                "criam",
+                "adição",
+                "inserir",
+                "configurar",
+                "data",
+                "programar",
+                "definir",
+                "eventos",
+                "tarefa",
+                "prazo",
+                "tarefas"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Pesquisa",
+            "words": [
+                "compromissos",
+                "compromisso",
+                "agenda",
+                "agendamento",
+                "agendas",
+                "agendamentos",
+                "pesquisa",
+                "pesquisar",
+                "filtrar",
+                "buscar",
+                "consultar",
+                "filtro",
+                "consulta",
+                "busca",
+                "buscas",
+                "procurar",
+                "procurando",
+                "encontrar",
+                "eventos",
+                "tarefa",
+                "prazo",
+                "tarefas"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Pontuação",
+            "words": [
+                "compromissos",
+                "compromisso",
+                "agenda",
+                "agendamento",
+                "agendas",
+                "agendamentos",
+                "atribuir",
+                "pontos",
+                "pontuação",
+                "marcar",
+                "avaliar",
+                "eventos",
+                "tarefa",
+                "prazo",
+                "tarefas",
+                "pontuar",
+                "conclusão",
+                "realizações",
+                "realização",
+                "calcular"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Recorrente",
+            "words": [
+                "compromissos",
+                "compromisso",
+                "agenda",
+                "agendamento",
+                "agendas",
+                "agendamentos",
+                "recorrente",
+                "mensal",
+                "mensais",
+                "diários",
+                "diário",
+                "data",
+                "semanal",
+                "semanais",
+                "eventos",
+                "tarefa",
+                "prazo",
+                "tarefas"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Relatórios",
+            "words": [
+                "agenda",
+                "agendamento",
+                "agendas",
+                "agendamentos",
+                "excel",
+                "pdf",
+                "data",
+                "eventos",
+                "tarefa",
+                "prazo",
+                "tarefas",
+                "compromissos",
+                "compromisso",
+                "extrato",
+                "documento",
+                "gerar",
+                "arquivo",
+                "formato",
+                "exportar",
+                "importar",
+                "planilha",
+                "tabela",
+                "exportação",
+                "importação",
+                "dados",
+                "coluna",
+                "colunas",
+                "emissão",
+                "relatório",
+                "relatorios",
+                "relatorio",
+                "relatórios"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Timesheet",
+            "words": [
+                "agenda",
+                "agendamento",
+                "agendas",
+                "agendamentos",
+                "timesheet",
+                "time",
+                "shit",
+                "horas",
+                "horário",
+                "sheet"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Visualização",
+            "words": [
+                "agenda",
+                "agendamento",
+                "agendas",
+                "agendamentos",
+                "manutenção"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Workflow (configuração)",
+            "words": [
+                "agenda",
+                "agendamento",
+                "agendas",
+                "agendamentos",
+                "workflow",
+                "configuração",
+                "configurações",
+                "etapa",
+                "etapas",
+                "principal",
+                "tarefa",
+                "prazo",
+                "tarefas",
+                "data",
+                "datas",
+                "compromisso",
+                "compromissos",
+                "configurar",
+                "negativo"
+            ]
+        },
+        {
+            "modulo": "Agenda",
+            "servico": "Agenda - Workflow (utilização)",
+            "words": [
+                "agenda",
+                "agendamento",
+                "agendas",
+                "agendamentos",
+                "workflow",
+                "configuração",
+                "configurações",
+                "etapa",
+                "etapas",
+                "principal",
+                "tarefa",
+                "prazo",
+                "tarefas",
+                "data",
+                "datas",
+                "compromisso",
+                "usar",
+                "utilizar",
+                "usei",
+                "consigo",
+                "conseguir",
+                "negativo",
+                "compromissos"
+            ]
+        },
+        {
+            "modulo": "Atendimento CS",
+            "servico": "Atendimento CS - Asaas",
+            "words": [
+                "integração",
+                "conta",
+                "nova",
+                "contratar",
+                "integrar",
+                "asaas",
+                "WhatsApp",
+                "Email",
+                "34 9855-4702",
+                "mdias@easyjur.com",
+                "contato",
+                "raraujo@easyjur.com",
+                "(34) 9 9771 1499",
+                "equipe",
+                "responsável"
+            ]
+        },
+        {
+            "modulo": "Atendimento CS",
+            "servico": "Atendimento do CS",
+            "words": [
+                "whatsapp",
+                "email",
+                "34 9855-4702",
+                "mdias@easyjur.com",
+                "contato",
+                "raraujo@easyjur.com",
+                "(34) 9 9771 1499",
+                "equipe",
+                "responsável",
+                "encaminhar",
+                "encaminhado",
+                "transferir",
+                "encaminhei"
+            ]
+        },
+        {
+            "modulo": "Base de Conhecimento",
+            "servico": "Base de Conhecimento",
+            "words": [
+                "base",
+                "conhecimento",
+                "artigos",
+                "artigo"
+            ]
+        },
+        {
+            "modulo": "Chat",
+            "servico": "Chat Encerrado - Inatividade",
+            "words": []
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Cadastro de Feriados",
+            "words": []
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Centro de Custo",
+            "words": []
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Cadastro de Usuário",
+            "words": [
+                "excluir",
+                "exclusão",
+                "deletar",
+                "apagar",
+                "deletado",
+                "cadastrar",
+                "cadastrado",
+                "cadastro",
+                "usuários",
+                "usuario",
+                "usuário",
+                "usuarios",
+                "login",
+                "configurações",
+                "configurar",
+                "configuração",
+                "acesso",
+                "acessar",
+                "acessos",
+                "autorizar",
+                "autorização",
+                "advogado",
+                "permissão",
+                "permitir",
+                "controle",
+                "colaborador",
+                "perfil",
+                "habilitação",
+                "conceder",
+                "habilitar",
+                "desativar",
+                "desabilitar",
+                "habilitado",
+                "habilitada",
+                "desativada",
+                "desativado",
+                "conta",
+                "cancelar",
+                "cancelamento"
+            ]
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Campos Personalizados",
+            "words": []
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Cargos e Senioridades",
+            "words": []
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Easycall",
+            "words": []
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Gerenciador de Relatórios",
+            "words": [
+                "excel",
+                "pdf",
+                "csv",
+                "html",
+                "tabela",
+                "extrato",
+                "documento",
+                "gerar",
+                "arquivo",
+                "formato",
+                "exportar",
+                "importar",
+                "planilha",
+                "tabela",
+                "exportação",
+                "importação",
+                "dados",
+                "baixar",
+                "dado",
+                "extrair",
+                "emitir",
+                "emitiu",
+                "emitindo",
+                "emite",
+                "emissão",
+                "relatórios",
+                "relatório",
+                "relatorios",
+                "relatorio"
+            ]
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Gestão de Equipes",
+            "words": []
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Grupos e Tags",
+            "words": []
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Histórico de Ações",
+            "words": []
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Informações e Segurança",
+            "words": []
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Minha Conta",
+            "words": []
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Tabela de Honorários",
+            "words": []
+        },
+        {
+            "modulo": "Configurações",
+            "servico": "Configurações - Termos de Uso",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Aniversariantes",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Contratos",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Desempenho Usuário",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Despesas Área",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Despesas Cliente",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Despesas Processuais",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - DRE",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Faturamento",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Faturamento Advogado",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Faturamento Área",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Financeiro",
+            "words": [
+                "pagamento",
+                "pagamentos",
+                "pago",
+                "pagar",
+                "pagou",
+                "paguei",
+                "R$",
+                "vinculada",
+                "vinculado",
+                "finaceiro",
+                "finanças",
+                "financeiras",
+                "financeira"
+            ]
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Fluxo de Caixa",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Intimações e Publicações",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Metas",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Novos Negócios",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Performance Eventos",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Pessoas Tipo",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Pontuação",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Processos Advogado",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Processos Área",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Processos Status",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Projetos Consultivos",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Provisionamento",
+            "words": []
+        },
+        {
+            "modulo": "Dashboard",
+            "servico": "Dashboard - Timesheet",
+            "words": []
+        },
+        {
+            "modulo": "Despesas e Suprimentos",
+            "servico": "Despesas e Suprimentos - Debits e Compras",
+            "words": []
+        },
+        {
+            "modulo": "Despesas e Suprimentos",
+            "servico": "Despesas e Suprimentos - Estoque de Suprimentos",
+            "words": []
+        },
+        {
+            "modulo": "Despesas e Suprimentos",
+            "servico": "Despesas e Suprimentos - Requisição de Suprimentos",
+            "words": []
+        },
+        {
+            "modulo": "Exclusão de Dados",
+            "servico": "Exclusão de Dados",
+            "words": []
+        },
+        {
+            "modulo": "FAQ | Treinamentos",
+            "servico": "FAQ - Treinamentos - Legal Academy",
+            "words": []
+        },
+        {
+            "modulo": "Financeiro",
+            "servico": "Financeiro - Contas Bancárias",
+            "words": [
+                "pagamento",
+                "pagamentos",
+                "pago",
+                "pagar",
+                "pagou",
+                "paguei",
+                "R$",
+                "vinculada",
+                "vinculado",
+                "finaceiro",
+                "finanças",
+                "financeiras",
+                "financeira"
+            ]
+        },
+        {
+            "modulo": "Financeiro",
+            "servico": "Financeiro - Contratos",
+            "words": [
+                "pagamento",
+                "pagamentos",
+                "pago",
+                "pagar",
+                "pagou",
+                "paguei",
+                "R$",
+                "vinculada",
+                "vinculado",
+                "finaceiro",
+                "finanças",
+                "financeiras",
+                "financeira"
+            ]
+        },
+        {
+            "modulo": "Financeiro",
+            "servico": "Financeiro - Despesas",
+            "words": [
+                "despesa",
+                "despesas",
+                "lançar",
+                "lançamento",
+                "pagamento",
+                "pagar",
+                "paguei",
+                "pagou",
+                "recebimento",
+                "receber",
+                "recebi",
+                "recebido",
+                "cobrança",
+                "taxa",
+                "taxas",
+                "reembolso",
+                "fiscal",
+                "pagamento"
+
+            ]
+        },
+        {
+            "modulo": "Financeiro",
+            "servico": "Financeiro - DRE",
+            "words": [
+                "pagamento",
+                "pagamentos",
+                "pago",
+                "pagar",
+                "pagou",
+                "paguei",
+                "R$",
+                "vinculada",
+                "vinculado",
+                "finaceiro",
+                "finanças",
+                "financeiras",
+                "financeira"
+            ]
+        },
+        {
+            "modulo": "Financeiro",
+            "servico": "Financeiro - Emissão de Boleto",
+            "words": [
+                "pagamento",
+                "pagamentos",
+                "pago",
+                "pagar",
+                "pagou",
+                "paguei",
+                "R$",
+                "vinculada",
+                "vinculado",
+                "finaceiro",
+                "finanças",
+                "financeiras",
+                "financeira"
+            ]
+        },
+        {
+            "modulo": "Financeiro",
+            "servico": "Financeiro - Fluxo de Caixa",
+            "words": [
+                "pagamento",
+                "pagamentos",
+                "pago",
+                "pagar",
+                "pagou",
+                "paguei",
+                "R$",
+                "vinculada",
+                "vinculado",
+                "finaceiro",
+                "finanças",
+                "financeiras",
+                "financeira"
+            ]
+        },
+        {
+            "modulo": "Financeiro",
+            "servico": "Financeiro - Nota fiscal",
+            "words": [
+                "nota",
+                "emissão",
+                "fiscal",
+                "fiscais",
+                "prefeitura",
+                "notas",
+                "emissões",
+                "certificado",
+                "digital",
+                "asaas"
+            ]
+        },
+        {
+            "modulo": "Financeiro",
+            "servico": "Financeiro - Provisionamento",
+            "words": [
+                "pagamento",
+                "pagamentos",
+                "pago",
+                "pagar",
+                "pagou",
+                "paguei",
+                "R$",
+                "vinculada",
+                "vinculado",
+                "finaceiro",
+                "finanças",
+                "financeiras",
+                "financeira"
+            ]
+        },
+        {
+            "modulo": "Financeiro",
+            "servico": "Financeiro - Receitas",
+            "words": [
+                "pagamento",
+                "pagamentos",
+                "pago",
+                "pagar",
+                "pagou",
+                "paguei",
+                "R$",
+                "vinculada",
+                "vinculado",
+                "finaceiro",
+                "finanças",
+                "financeiras",
+                "financeira"
+            ]
+        },
+        {
+            "modulo": "Financeiro",
+            "servico": "Financeiro - Split - Asaas",
+            "words": [
+                "pagamento",
+                "pagamentos",
+                "pago",
+                "pagar",
+                "pagou",
+                "paguei",
+                "R$",
+                "vinculada",
+                "vinculado",
+                "finaceiro",
+                "finanças",
+                "financeiras",
+                "financeira"
+            ]
+        },
+        {
+            "modulo": "Gestão Estratégica",
+            "servico": "Gestão Estratégica - Análise SWOT",
+            "words": []
+        },
+        {
+            "modulo": "Gestão Estratégica",
+            "servico": "Gestão Estratégica - Manual de Procedimentos",
+            "words": []
+        },
+        {
+            "modulo": "Gestão Estratégica",
+            "servico": "Gestão Estratégica - Marketing",
+            "words": []
+        },
+        {
+            "modulo": "Gestão Estratégica",
+            "servico": "Gestão Estratégica - Metas e Orçamentos",
+            "words": []
+        },
+        {
+            "modulo": "Gestão Estratégica",
+            "servico": "Gestão Estratégica - Modelo de Negócio",
+            "words": []
+        },
+        {
+            "modulo": "Gestão Estratégica",
+            "servico": "Gestão Estratégica - Planejamento Estratégico",
+            "words": []
+        },
+        {
+            "modulo": "Gestão Estratégica",
+            "servico": "Gestão Estratégica - Segmentação de Mercado",
+            "words": []
+        },
+        {
+            "modulo": "Informações de API",
+            "servico": "Informações de API",
+            "words": [
+                "integração",
+                "API",
+                "api",
+                "aberta",
+                "integrar"
+
+            ]
+        },
+        {
+            "modulo": "Instabilidade/Travamento",
+            "servico": "Instabilidade/Travamento",
+            "words": [
+                "CTRL",
+                "F5",
+                "travado",
+                "instabilidade",
+                "instável",
+                "travamento",
+                "manutenção",
+                "branco",
+                "limpar",
+                "cache",
+                "erro",
+                "travando",
+                "acesso",
+                "acessar",
+                "tentando",
+                "tentar",
+                "tentei",
+                "conseguir",
+                "consegui",
+                "consigo",
+                "conseguindo",
+                "não",
+                "sistema",
+                "plataforma",
+                "erros"
+
+            ]
+        },
+        {
+            "modulo": "Integração do Site do Escritório com o EasyJur",
+            "servico": "Integração do Site do Escritório com o EasyJur",
+            "words": []
+        },
+        {
+            "modulo": "Juris.Ai",
+            "servico": "Juris.Ai",
+            "words": [
+                "ferramenta",
+                "juris",
+                "jurisai",
+                "juris ai",
+                "juris.ai",
+                "especialista",
+                "tokens",
+                "token",
+                "tokem",
+                "tokems",
+                "inteligência",
+                "artifical",
+                "AI",
+                "IA"
+            ]
+        },
+        {
+            "modulo": "Legal Analytic",
+            "servico": "Legal Analytic",
+            "words": []
+        },
+        {
+            "modulo": "Legal Analytics",
+            "servico": "Legal Analytics - Contencioso",
+            "words": []
+        },
+        {
+            "modulo": "Lentidão/Travamento",
+            "servico": "Lentidão/Travamento",
+            "words": [
+                "lentidão",
+                "lento",
+                "travando",
+                "trava",
+                "travar",
+                "travado",
+                "devagar",
+                "demorando",
+                "demorar",
+                "demorou",
+                "lenta",
+                "instável",
+                "instabilidade",
+                "velocidade",
+                "branco",
+                "delay",
+                "travamento",
+                "desempenho",
+                "atraso",
+                "sistema",
+                "plataforma",
+                "site",
+                "aplicação",
+                "serviço",
+                "resposta"
+            ]
+        },
+        {
+            "modulo": "Mensagens",
+            "servico": "Mensagens",
+            "words": []
+        },
+        {
+            "modulo": "Movimentações",
+            "servico": "Movimentações - Ação em Massa",
+            "words": []
+        },
+        {
+            "modulo": "Movimentações",
+            "servico": "Movimentações - Andamentos",
+            "words": []
+        },
+        {
+            "modulo": "Movimentações",
+            "servico": "Movimentações - Cadastro de Prazo",
+            "words": []
+        },
+        {
+            "modulo": "Movimentações",
+            "servico": "Movimentações - Intimações",
+            "words": [
+                "intimação",
+                "intimações",
+                "intimaçao",
+                "intimaçoes",
+                "coleta",
+                "recebi",
+                "recebimento",
+                "recebemos",
+                "receber",
+                "recebido",
+                "processo",
+                "processos",
+                "captura",
+                "sistema",
+                "tribunal",
+                "sistemas",
+                "tribunais",
+                "movimentações",
+                "movimentação",
+                "acesso",
+                "eletrônicas",
+                "captura",
+                "monitoramento",
+                "termo",
+                "monitorado"            
+            ]
+        },
+        {
+            "modulo": "Movimentações",
+            "servico": "Movimentações - Processos Distribuídos",
+            "words": []
+        },
+        {
+            "modulo": "Movimentações",
+            "servico": "Movimentações - Publicações",
+            "words": []
+        },
+        {
+            "modulo": "Notificações",
+            "servico": "Notificações",
+            "words": []
+        },
+        {
+            "modulo": "Notificações",
+            "servico": "Notificações do Sistema",
+            "words": []
+        },
+        {
+            "modulo": "Novos Negócios",
+            "servico": "Novos Negócios - Cadastro",
+            "words": []
+        },
+        {
+            "modulo": "Novos Negócios",
+            "servico": "Novos Negócios - Pesquisa Avançada",
+            "words": []
+        },
+        {
+            "modulo": "Novos Negócios",
+            "servico": "Novos Negócios - Relatório",
+            "words": []
+        },
+        {
+            "modulo": "Outros Assuntos",
+            "servico": "Outros Assuntos",
+            "words": []
+        },
+        {
+            "modulo": "Pessoas",
+            "servico": "Pessoas - Cadastro",
+            "words": []
+        },
+        {
+            "modulo": "Pessoas",
+            "servico": "Pessoas - Relatório",
+            "words": []
+        },
+        {
+            "modulo": "Processos",
+            "servico": "Processos - Ação em Massa",
+            "words": []
+        },
+        {
+            "modulo": "Processos",
+            "servico": "Processos - Cadastro",
+            "words": [
+                "numero",
+                "número",
+                "numeros",
+                "números",
+                "processo",
+                "pasta",
+                "desdobramento",
+                "desdobramentos",
+                "salvar",
+                "salvamento",
+                "cadastrar",
+                "cadastro",
+                "nº",
+                "n º",
+                "adicionar",
+                "tarefas",
+                "pastas",
+                "CNJ",
+                "tribunal",
+                "tribunais",
+                "novo",
+                "excluída",
+                "excluído",
+                "excluida",
+                "excluido",
+                "excluídas",
+                "excluídos",
+                "excluidas",
+                "excluidos",
+                "casos",
+                "processos"
+            ]
+        },
+        {
+            "modulo": "Processos",
+            "servico": "Processos - Financeiro",
+            "words": []
+        },
+        {
+            "modulo": "Processos",
+            "servico": "Processos - Partes do processo",
+            "words": []
+        },
+        {
+            "modulo": "Processos",
+            "servico": "Processos - Pesquisa Avançada",
+            "words": []
+        },
+        {
+            "modulo": "Processos",
+            "servico": "Processos - Relatório",
+            "words": []
+        },
+        {
+            "modulo": "Produção Jurídica",
+            "servico": "Produção Jurídica - Biblioteca",
+            "words": []
+        },
+        {
+            "modulo": "Produção Jurídica",
+            "servico": "Produção Jurídica - Documentos",
+            "words": []
+        },
+        {
+            "modulo": "Produção Jurídica",
+            "servico": "Produção Jurídica - Jurisprudência",
+            "words": []
+        },
+        {
+            "modulo": "Produção Jurídica",
+            "servico": "Produção Jurídica - Legal Design",
+            "words": []
+        },
+        {
+            "modulo": "Projetos Consultivos",
+            "servico": "Projetos Consultivos - Cadastro",
+            "words": []
+        },
+        {
+            "modulo": "Projetos Consultivos",
+            "servico": "Projetos Consultivos - Pesquisa Avançada",
+            "words": []
+        },
+        {
+            "modulo": "Projetos Consultivos",
+            "servico": "Projetos Consultivos - Relatório",
+            "words": []
+        },
+        {
+            "modulo": "Relatório",
+            "servico": "Relatório - Módulo Beta",
+            "words": []
+        },
+        {
+            "modulo": "Relatórios",
+            "servico": "Relatórios - Automação",
+            "words": [
+                "excel",
+                "pdf",
+                "csv",
+                "html",
+                "tabela",
+                "extrato",
+                "documento",
+                "gerar",
+                "arquivo",
+                "formato",
+                "exportar",
+                "importar",
+                "planilha",
+                "tabela",
+                "exportação",
+                "importação",
+                "dados",
+                "baixar",
+                "dado",
+                "extrair",
+                "emitir",
+                "emitiu",
+                "emitindo",
+                "emite",
+                "emissão",
+                "relatórios",
+                "relatório",
+                "relatorios",
+                "relatorio",
+                "automação",
+                "automatizado",
+                "automatizados",
+                "envio",
+                "enviados",
+                "enviando",
+                "enviar",
+                "enviadas",
+                "enviada",
+                "modelo",
+                "modelos",
+                "email",
+                "encaminhar",
+                "encaminhado",
+                "encaminhando",
+                "recorrente",
+                "mensal",
+                "diário",
+                "semanal",
+                "data",
+                "horário",
+                "mensais",
+                "semanais",
+                "diários",
+                "datas",
+                "horários"
+                
+            ]
+        },
+        {
+            "modulo": "Solicitação de Cancelamento",
+            "servico": "Solicitação de Cancelamento",
+            "words": [
+                "cancelar",
+                "cancelamento",
+                "desativação",
+                "desativar",
+                "solicitação",
+                "solicitar",
+                "solicitei",
+                "sistema",
+                "csfinanceiro@easyjur.com",
+                "assinatura",
+                "encerrar",
+                "encerramento"
+            ]
+        },
+        {
+            "modulo": "Treinamento CX",
+            "servico": "Treinamento CX - Consultoras",
             "words": []
         }
-       
     ]
 }
