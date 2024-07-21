@@ -1,0 +1,52 @@
+{
+    "intents": [
+        {
+            "modulo": "Movimentações | Publicações e Intimações",
+            "servico": "Movimentações - Termos Monitorados",
+            "words": [
+                "código",
+                "login",
+                "alfanumérico",
+                "token",
+                "senha",
+                "termo",
+                "coleta",
+                "intimação",
+                "status"
+            ]
+        },
+        {
+            "modulo": "Financeiro e Contratos",
+            "servico": "Financeiro - Asaas",
+            "words": [
+                "asaas",
+                "boleto",
+                "cobrança",
+                "conta",
+                "banco",
+                "valor",
+                "documentação",
+                "pagamento"
+            ]
+        },
+        {
+            "modulo": "Processos e casos",
+            "servico": "Processos - PUSH",
+            "words": [
+                "processo",
+                "processos",
+                "status",
+                "push",
+                "andamento",
+                "andamentos",
+                "cadastrado",
+                "erro",
+                "validando",
+                "dados completos",
+                "ativado",
+                "habilitado",
+                "Pusch"
+            ]
+        }
+    ]
+}
