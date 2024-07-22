@@ -1897,7 +1897,37 @@
             "servico": "Treinamento CX - Consultoras",
             "words": [
                 "treinamento",
-                "cx"
+                "cx",
+                "colaborador",
+                "colaboradores",
+                "colaboradora",
+                "colaboradoras"
+            ]
+        },
+        {
+            "modulo": "Encaminhado ao Financeiro",
+            "servico": "Encaminhado ao Financeiro - Mensalidade EasyJur",
+            "words": [
+                "boleto",
+                "easyjur",
+                "fsantos@easyjur.com",
+                "(34) 9 9771-6707",
+                "pagamentos",
+                "pagamento"
+            ]
+        },
+        {
+            "modulo": "Encaminhado ao Financeiro",
+            "servico": "Encaminhado ao Financeiro - Renovação",
+            "words": [
+                "boleto",
+                "easyjur",
+                "fsantos@easyjur.com",
+                "(34) 9 9771-6707",
+                "pagamentos",
+                "pagamento",
+                "renovação",
+                "renovar"
             ]
         }
     ]
