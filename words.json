@@ -1,3 +1,4 @@
+
 {
     "intents": [
         {
@@ -423,7 +424,9 @@
                 "compromisso",
                 "compromissos",
                 "configurar",
-                "negativo"
+                "negativo",
+                "wf",
+                "cadastro"
             ]
         },
         {
@@ -452,7 +455,8 @@
                 "consigo",
                 "conseguir",
                 "negativo",
-                "compromissos"
+                "compromissos",
+                "wf"
             ]
         },
         {
