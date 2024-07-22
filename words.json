@@ -913,21 +913,7 @@
                 "finaceiro",
                 "finanças",
                 "financeiras",
-                "financeira",
-                "saldos",
-                "saldo",
-                "bancárias",
-                "bancário",
-                "bancario",                
-                "bancários",
-                "bancarias",
-                "bancaria",
-                "contas",
-                "conta",
-                "banco",
-                "valor",
-                "valores"
-        
+                "financeira"
             ]
         },
         {
@@ -1927,7 +1913,16 @@
                 "fsantos@easyjur.com",
                 "(34) 9 9771-6707",
                 "pagamentos",
-                "pagamento"
+                "pagamento",
+                "boletos",
+                "mensalidade",
+                "mensalidade",
+                "valor",
+                "documentação",
+                "pago",
+                "pagar",
+                "pagou",
+                "paguei"
             ]
         },
         {
