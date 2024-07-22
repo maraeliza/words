@@ -60,7 +60,9 @@
                 "termo",
                 "monitorado",
                 "filtro",
-                "falha"
+                "falha",
+                "validação",
+                "capturada"
             ]
         },
         {
@@ -249,7 +251,10 @@
                 "eventos",
                 "tarefa",
                 "prazo",
-                "tarefas"
+                "tarefas",
+                "lembrete",
+                "lembrar",
+                "relembrar"
             ]
         },
         {
@@ -278,6 +283,7 @@
                 "tarefa",
                 "prazo",
                 "tarefas"
+                
             ]
         },
         {
@@ -490,13 +496,17 @@
             ]
         },
         {
-            "modulo": "Base de Conhecimento",
-            "servico": "Base de Conhecimento",
+            "modulo": "FAQ | Treinamento",
+            "servico": "FAQ | Treinamento - Base de Conhecimento",
             "words": [
                 "base",
                 "conhecimento",
                 "artigos",
-                "artigo"
+                "artigo",
+                "manual do sistema",
+                "manual",
+                "treinamento",
+                "treinamentos"
             ]
         },
         {
@@ -572,17 +582,27 @@
         {
             "modulo": "Configurações",
             "servico": "Configurações - Easycall",
-            "words": []
-        },
-         {
-            "modulo": "Configurações",
-            "servico": "Configurações - Acesso ao Sistema",
-            "words": []
+            "words": [
+                "ligar",
+                "ligações",
+                "ligação",
+                "call",
+                "easy",
+                "easycall",
+                "configuração",
+                "configurações"
+            ]
         },
         {
             "modulo": "Configurações",
             "servico": "Configurações - Gerenciador de Relatórios",
             "words": [
+                "configurações",
+                "gerenciador",
+                "configuração",
+                "modelo",
+                "automação",
+                "envio",
                 "excel",
                 "pdf",
                 "csv",
@@ -622,29 +642,74 @@
         {
             "modulo": "Configurações",
             "servico": "Configurações - Grupos e Tags",
-            "words": []
+            "words": [
+                "tag",
+                "tags",
+                "grupos",
+                "grupo",
+                "grupamento",
+                "grupamentos"
+
+            ]
         },
         {
             "modulo": "Configurações",
             "servico": "Configurações - Histórico de Ações",
-            "words": []
+            "words": [
+                "registro",
+                "registros",
+                "ações",
+                "histórico",
+                "historico"
+            ]
         },
         {
             "modulo": "Configurações",
             "servico": "Configurações - Informações e Segurança",
-            "words": []
+            "words": [
+                "logotipo",
+                "escritório",
+                "cnpj",
+                "ged",
+                "configurações",
+                "permissões",
+                "configuração",
+                "permissão"
+            ]
         },
         {
             "modulo": "Configurações",
             "servico": "Configurações - Minha Conta",
-            "words": []
+            "words": [
+                "acesso",
+                "acessos",
+                "configurações",
+                "autenticação",
+                "dois",
+                "fatores",
+                "dupla",
+                "email",
+                "login",
+                "senha",
+                "acessar",
+                "sistema",
+                "logar",
+                "foto",
+                "perfil",
+                "nome"
+            ]
         },
         {
             "modulo": "Configurações",
             "servico": "Configurações - Tabela de Honorários",
-            "words": []
+            "words": [
+                "tabela",
+                "honorário",
+                "honorários",
+                "honorario"
+            ]
         },
-        {f
+        {
             "modulo": "Configurações",
             "servico": "Configurações - Termos de Uso",
             "words": []
@@ -811,7 +876,13 @@
         {
             "modulo": "FAQ | Treinamentos",
             "servico": "FAQ - Treinamentos - Legal Academy",
-            "words": []
+            "words": [
+                "curso",
+                "treinamento",
+                "legal academy",
+                "legal",
+                "academy"
+            ]
         },
         {
             "modulo": "Financeiro",
@@ -857,23 +928,83 @@
             "words": [
                 "despesa",
                 "despesas",
-                "lançar",
-                "lançamento",
                 "pagamento",
+                "pagamentos",
+                "pago",
                 "pagar",
-                "paguei",
                 "pagou",
-                "recebimento",
-                "receber",
-                "recebi",
-                "recebido",
-                "cobrança",
-                "taxa",
-                "taxas",
+                "paguei",
+                "R$",
+                "vinculada",
+                "vinculado",
+                "finaceiro",
+                "finanças",
+                "financeiras",
+                "financeira",
+                "fatura",
+                "faturar",
+                "faturada",
                 "reembolso",
+                "paga",
+                "valor",
+                "recebida",
+                "recebido",
+                "parcela",
+                "parcelada",
+                "parcelado",
+                "parcelas",
+                "nº",
+                "parcelar",
+                "cobrar",
+                "cobrança",
+                "cobrei",
+                "cobrada",
+                "cobrado",
+                "cobrando",
+                "emiti",
+                "emitir",
+                "valores",
+                "juros",
+                "juro",
+                "imposto",
+                "impostos",
+                "operacional",
+                "não operacional",
+                "pagador",
+                "competência",
+                "vencimento",
+                "crédito",
+                "plano de contas",
+                "plano",
+                "contas",
+                "cálculo",
+                "banco",
+                "acréscimo",
+                "desconto",
+                "acréscimos",
+                "acrescimos",
+                "descontos",
+                "multas",
+                "multa",
+                "líquido",
                 "fiscal",
-                "pagamento"
-
+                "nota",
+                "emitida",
+                "emitido",
+                "faturado",
+                "faturada",
+                "faturamento",
+                "repasse",
+                "repasses",
+                "comissão",
+                "honorário",
+                "honorários",
+                "taxa",
+                "reembolsada",
+                "reembolsado",
+                "reembolsadas",
+                "reembolsados",
+                "recibo"
             ]
         },
         {
@@ -911,7 +1042,13 @@
                 "finaceiro",
                 "finanças",
                 "financeiras",
-                "financeira"
+                "financeira",
+                "boleto",
+                "cobrança",
+                "banco",
+                "conta",
+                "valor",
+                "emitir"
             ]
         },
         {
@@ -984,7 +1121,67 @@
                 "finaceiro",
                 "finanças",
                 "financeiras",
-                "financeira"
+                "financeira",
+                "receita",
+                "receitas",
+                "fatura",
+                "faturar",
+                "faturada",
+                "reembolso",
+                "paga",
+                "valor",
+                "recebida",
+                "recebido",
+                "parcela",
+                "parcelada",
+                "parcelado",
+                "parcelas",
+                "nº",
+                "parcelar",
+                "cobrar",
+                "cobrança",
+                "cobrei",
+                "cobrada",
+                "cobrado",
+                "cobrando",
+                "emiti",
+                "emitir",
+                "valores",
+                "juros",
+                "juro",
+                "imposto",
+                "impostos",
+                "operacional",
+                "não operacional",
+                "pagador",
+                "competência",
+                "vencimento",
+                "crédito",
+                "plano de contas",
+                "plano",
+                "contas",
+                "cálculo",
+                "banco",
+                "acréscimo",
+                "desconto",
+                "acréscimos",
+                "acrescimos",
+                "descontos",
+                "multas",
+                "multa",
+                "líquido",
+                "fiscal",
+                "nota",
+                "emitida",
+                "emitido",
+                "faturado",
+                "faturada",
+                "faturamento",
+                "repasse",
+                "repasses",
+                "comissão",
+                "honorário",
+                "honorários"
             ]
         },
         {
@@ -1154,7 +1351,11 @@
         {
             "modulo": "Mensagens",
             "servico": "Mensagens",
-            "words": []
+            "words": [
+                "mensagem",
+                "mensagens",
+                "sistema"
+            ]
         },
         {
             "modulo": "Movimentações",
@@ -1164,12 +1365,30 @@
         {
             "modulo": "Movimentações",
             "servico": "Movimentações - Andamentos",
-            "words": []
+            "words": [
+                "andamento",
+                "tribunal",
+                "push",
+                "inss",
+                "atualização",
+                "atualizações",
+                "andamentos"
+            ]
         },
         {
             "modulo": "Movimentações",
             "servico": "Movimentações - Cadastro de Prazo",
-            "words": []
+            "words": [
+                "prazo",
+                "cadastro",
+                "tarefas",
+                "tarefa",
+                "delegar",
+                "atribuir",
+                "lembrete",
+                "relembrar",
+                "lembrar"
+            ]
         },
         {
             "modulo": "Movimentações",
@@ -1205,37 +1424,109 @@
         {
             "modulo": "Movimentações",
             "servico": "Movimentações - Processos Distribuídos",
-            "words": []
+            "words": [
+                "processo",
+                "processos",
+                "distribuido",
+                "distribuidos",
+                "distribuído",
+                "distribuídos"
+            
+            ]
         },
         {
             "modulo": "Movimentações",
             "servico": "Movimentações - Publicações",
-            "words": []
+            "words": [
+                "publicação",
+                "publicações"
+
+            ]
         },
         {
             "modulo": "Notificações",
             "servico": "Notificações",
-            "words": []
+            "words": [
+                "notificação",
+                "notificações"
+            ]
         },
         {
             "modulo": "Notificações",
             "servico": "Notificações do Sistema",
-            "words": []
+            "words": [
+                "notificação",
+                "notificações"
+            ]
         },
         {
             "modulo": "Novos Negócios",
             "servico": "Novos Negócios - Cadastro",
-            "words": []
+            "words": [
+                "cadastro",
+                "cadastros",
+                "Novos",
+                "Negócios",
+                "Novo",
+                "Negócio"
+            ]
         },
         {
             "modulo": "Novos Negócios",
             "servico": "Novos Negócios - Pesquisa Avançada",
-            "words": []
+            "words": [
+                "Novos",
+                "Negócios",
+                "Novo",
+                "Negócio",
+                "pesquisa",
+                "pesquisar",
+                "filtrar",
+                "buscar",
+                "consultar",
+                "filtro",
+                "consulta",
+                "busca",
+                "buscas",
+                "procurar",
+                "procurando",
+                "encontrar"
+            ]
         },
         {
             "modulo": "Novos Negócios",
             "servico": "Novos Negócios - Relatório",
-            "words": []
+            "words": [
+                "excel",
+                "pdf",
+                "csv",
+                "html",
+                "tabela",
+                "extrato",
+                "documento",
+                "gerar",
+                "arquivo",
+                "formato",
+                "exportar",
+                "importar",
+                "planilha",
+                "tabela",
+                "exportação",
+                "importação",
+                "dados",
+                "baixar",
+                "dado",
+                "extrair",
+                "emitir",
+                "emitiu",
+                "emitindo",
+                "emite",
+                "emissão",
+                "relatórios",
+                "relatório",
+                "relatorios",
+                "relatorio"
+            ]
         },
         {
             "modulo": "Outros Assuntos",
@@ -1250,16 +1541,43 @@
         {
             "modulo": "Pessoas",
             "servico": "Pessoas - Relatório",
-            "words": []
+            "words": [
+                "pessoas",
+                "pessoa",
+                "excel",
+                "pdf",
+                "csv",
+                "html",
+                "tabela",
+                "extrato",
+                "documento",
+                "gerar",
+                "arquivo",
+                "formato",
+                "exportar",
+                "importar",
+                "planilha",
+                "tabela",
+                "exportação",
+                "importação",
+                "dados",
+                "baixar",
+                "dado",
+                "extrair",
+                "emitir",
+                "emitiu",
+                "emitindo",
+                "emite",
+                "emissão",
+                "relatórios",
+                "relatório",
+                "relatorios",
+                "relatorio"
+            ]
         },
         {
             "modulo": "Processos",
             "servico": "Processos - Ação em Massa",
-            "words": []
-        },
-        {
-            "modulo": "Processos",
-            "servico": "Processos e Casos - Visualização",
             "words": []
         },
         {
@@ -1312,12 +1630,57 @@
         {
             "modulo": "Processos",
             "servico": "Processos - Pesquisa Avançada",
-            "words": []
+            "words": [
+                "pesquisa",
+                "pesquisar",
+                "filtrar",
+                "buscar",
+                "consultar",
+                "filtro",
+                "consulta",
+                "busca",
+                "buscas",
+                "procurar",
+                "procurando",
+                "encontrar"
+            ]
         },
         {
             "modulo": "Processos",
             "servico": "Processos - Relatório",
-            "words": []
+            "words": [
+                "processo",
+                "processos",
+                "excel",
+                "pdf",
+                "csv",
+                "html",
+                "tabela",
+                "extrato",
+                "documento",
+                "gerar",
+                "arquivo",
+                "formato",
+                "exportar",
+                "importar",
+                "planilha",
+                "tabela",
+                "exportação",
+                "importação",
+                "dados",
+                "baixar",
+                "dado",
+                "extrair",
+                "emitir",
+                "emitiu",
+                "emitindo",
+                "emite",
+                "emissão",
+                "relatórios",
+                "relatório",
+                "relatorios",
+                "relatorio"
+            ]
         },
         {
             "modulo": "Produção Jurídica",
@@ -1347,17 +1710,94 @@
         {
             "modulo": "Projetos Consultivos",
             "servico": "Projetos Consultivos - Pesquisa Avançada",
-            "words": []
+            "words": [
+                "pesquisa",
+                "pesquisar",
+                "filtrar",
+                "buscar",
+                "consultar",
+                "filtro",
+                "consulta",
+                "busca",
+                "buscas",
+                "procurar",
+                "procurando",
+                "encontrar"
+            ]
         },
         {
             "modulo": "Projetos Consultivos",
             "servico": "Projetos Consultivos - Relatório",
-            "words": []
+            "words": [
+                "projetos",
+                "projeto",
+                "consultivos",
+                "consultivo",
+                "excel",
+                "pdf",
+                "csv",
+                "html",
+                "tabela",
+                "extrato",
+                "documento",
+                "gerar",
+                "arquivo",
+                "formato",
+                "exportar",
+                "importar",
+                "planilha",
+                "tabela",
+                "exportação",
+                "importação",
+                "dados",
+                "baixar",
+                "dado",
+                "extrair",
+                "emitir",
+                "emitiu",
+                "emitindo",
+                "emite",
+                "emissão",
+                "relatórios",
+                "relatório",
+                "relatorios",
+                "relatorio"
+            ]
         },
         {
             "modulo": "Relatório",
             "servico": "Relatório - Módulo Beta",
-            "words": []
+            "words": [
+                "excel",
+                "pdf",
+                "csv",
+                "html",
+                "tabela",
+                "extrato",
+                "documento",
+                "gerar",
+                "arquivo",
+                "formato",
+                "exportar",
+                "importar",
+                "planilha",
+                "tabela",
+                "exportação",
+                "importação",
+                "dados",
+                "baixar",
+                "dado",
+                "extrair",
+                "emitir",
+                "emitiu",
+                "emitindo",
+                "emite",
+                "emissão",
+                "relatórios",
+                "relatório",
+                "relatorios",
+                "relatorio"
+            ]
         },
         {
             "modulo": "Relatórios",
@@ -1442,7 +1882,10 @@
         {
             "modulo": "Treinamento CX",
             "servico": "Treinamento CX - Consultoras",
-            "words": []
+            "words": [
+                "treinamento",
+                "cx"
+            ]
         }
     ]
 }
