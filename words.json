@@ -1943,21 +1943,9 @@
             "modulo": "Tentativa de Contato",
             "servico": "Tentativa de contato com suporte",
             "words": [
-                "olá",
-                "boa",
-                "bom",
-                "dia",
-                "tarde",
-                "ajudar",
-                "auxiliar",
                 "falar",
                 "atendente",
-                "suporte",
-                "tudo",
-                "bem",
-                "como",
-                "posso",
-                "oi"
+                "suporte"
             ]
         }
     ]
