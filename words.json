@@ -5,6 +5,15 @@
             "modulo": "Movimentações | Publicações e Intimações",
             "servico": "Movimentações - Termos Monitorados",
             "words": [
+                "termo",
+                "monitorado",
+                "termos",
+                "monitorados",
+                "termo",
+                "monitorado",
+                "termos",
+                "monitorados",
+                "Termos Monitorados",
                 "código",
                 "login",
                 "alfanumérico",
@@ -70,6 +79,14 @@
             "modulo": "Financeiro e Contratos",
             "servico": "Financeiro - Asaas",
             "words": [
+                "financeiro",
+                "asaas",
+                "financeiros",
+                "assaas",
+                "financeiros",
+                "assaas",
+                "sasaas",
+                "assas",
                 "asaas",
                 "boleto",
                 "cobrança",
@@ -96,6 +113,15 @@
             "modulo": "Processos e casos",
             "servico": "Processos - PUSH",
             "words": [
+                "push",
+                "pushes",
+                "pushs",
+                "push",
+                "pushes",
+                "pushs",
+                "push",
+                "pushes",
+                "pushs",
                 "processo",
                 "processos",
                 "status",
@@ -115,6 +141,10 @@
             "modulo": "Agenda",
             "servico": "Agenda - Edição de evento",
             "words": [
+                "agenda",
+                 "agenda",
+                 "agenda",
+                 "agenda",
                 "compromissos",
                 "compromisso",
                 "editar",
@@ -143,6 +173,10 @@
             "modulo": "Agenda",
             "servico": "Agenda - Exclusão de evento",
             "words": [
+                 "agenda",
+                 "agenda",
+                 "agenda",
+                 "agenda",
                 "compromissos",
                 "compromisso",
                 "agenda",
@@ -164,6 +198,9 @@
             "modulo": "Agenda",
             "servico": "Agenda - Google Calendário",
             "words": [
+                 "agenda",
+                 "agenda",
+                 "agenda",
                 "compromissos",
                 "compromisso",
                 "agenda",
@@ -189,6 +226,9 @@
             "modulo": "Agenda",
             "servico": "Agenda - Modo calendário",
             "words": [
+                 "agenda",
+                 "agenda",
+                 "agenda",
                 "compromissos",
                 "compromisso",
                 "agenda",
@@ -207,6 +247,9 @@
             "modulo": "Agenda",
             "servico": "Agenda - Modo listagem",
             "words": [
+                 "agenda",
+                 "agenda",
+                 "agenda",
                 "compromissos",
                 "compromisso",
                 "compromissos",
@@ -229,6 +272,12 @@
             "modulo": "Agenda",
             "servico": "Agenda - Novo Cadastro",
             "words": [
+                 "agenda",
+                 "agenda",
+                 "agenda",
+                "cadastro",
+                "salvar",
+                "cadastro",
                 "compromissos",
                 "compromisso",
                 "agenda",
@@ -262,6 +311,12 @@
             "modulo": "Agenda",
             "servico": "Agenda - Pesquisa",
             "words": [
+                 "agenda",
+                 "agenda",
+                 "agenda",
+                "pesquisa",
+                "pesquisa",
+                
                 "compromissos",
                 "compromisso",
                 "agenda",
@@ -291,6 +346,11 @@
             "modulo": "Agenda",
             "servico": "Agenda - Pontuação",
             "words": [
+                "agenda",
+                 "agenda",
+                 "agenda",
+                "pontuação",
+                "pontuação",
                 "compromissos",
                 "compromisso",
                 "agenda",
@@ -317,6 +377,11 @@
             "modulo": "Agenda",
             "servico": "Agenda - Recorrente",
             "words": [
+                "agenda",
+                 "agenda",
+                 "agenda",
+                "recorrente",
+                "recorrente",
                 "compromissos",
                 "compromisso",
                 "agenda",
@@ -341,6 +406,14 @@
             "modulo": "Agenda",
             "servico": "Agenda - Relatórios",
             "words": [
+                  "agenda",
+                 "agenda",
+                 "agenda",
+                  "agenda",
+                 "agenda",
+                "relatórios",
+                "relatório",
+                "relatório",
                 "agenda",
                 "agendamento",
                 "agendas",
@@ -378,7 +451,12 @@
         {
             "modulo": "Agenda",
             "servico": "Agenda - Timesheet",
-            "words": [
+            "words": [ 
+                "agenda",
+                 "agenda",
+                 "agenda",
+                  "timesheet",
+                 "timesheet",
                 "agenda",
                 "agendamento",
                 "agendas",
@@ -395,6 +473,11 @@
             "modulo": "Agenda",
             "servico": "Agenda - Visualização",
             "words": [
+                 "agenda",
+                 "agenda",
+                 "agenda",
+                  "agenda",
+                 "agenda",
                 "agenda",
                 "agendamento",
                 "agendas",
@@ -406,7 +489,11 @@
             "modulo": "Agenda",
             "servico": "Agenda - Workflow (configuração)",
             "words": [
-                "agenda",
+                 "agenda",
+                 "agenda",
+                 "agenda",
+                 "workflow",
+                "workflow",
                 "agendamento",
                 "agendas",
                 "agendamentos",
@@ -433,6 +520,11 @@
             "modulo": "Agenda",
             "servico": "Agenda - Workflow (utilização)",
             "words": [
+                 "agenda",
+                 "agenda",
+                 "agenda",
+                 "workflow",
+                "workflow",
                 "agenda",
                 "agendamento",
                 "agendas",
@@ -463,6 +555,11 @@
             "modulo": "Atendimento CS",
             "servico": "Atendimento CS - Asaas",
             "words": [
+                "atendimento",
+                "cs",
+                "asaas",
+                "asaas",
+                "asaas",
                 "integração",
                 "conta",
                 "nova",
@@ -484,6 +581,10 @@
             "modulo": "Atendimento CS",
             "servico": "Atendimento do CS",
             "words": [
+                "atendimento",
+                "cs",
+                "atendimento",
+                "cs",
                 "whatsapp",
                 "email",
                 "34 9855-4702",
@@ -503,6 +604,13 @@
             "modulo": "FAQ | Treinamento",
             "servico": "FAQ | Treinamento - Base de Conhecimento",
             "words": [
+                "FAQ",
+                "Treinamento",
+                "base",
+                "conhecimento",
+                
+                "base",
+                "conhecimento",
                 "base",
                 "conhecimento",
                 "artigos",
@@ -516,17 +624,51 @@
         {
             "modulo": "Chat",
             "servico": "Chat Encerrado - Inatividade",
-            "words": []
+            "words": [
+                "Chat",
+                "Encerrado",
+                "Inatividade",
+                "Chat",
+                "Encerrado",
+                "Inatividade",
+                "Chat",
+                "Encerrado",
+                "Inatividade"
+            ]
         },
         {
             "modulo": "Configurações",
             "servico": "Configurações - Cadastro de Feriados",
-            "words": []
+            "words": [
+                "Configurações",
+                "Cadastro",
+                "Feriados",
+                "Configurações",
+                "Cadastro",
+                "Feriados",
+                "Configuração",
+                "Cadastro",
+                "Feriado"
+            ]
         },
         {
             "modulo": "Configurações",
             "servico": "Configurações - Centro de Custo",
-            "words": []
+            "words": [
+                "Configurações",
+                "Centro",
+                "Custo",
+                "Configuração",
+                "Centros",
+                "Custos",
+                
+                "Configurações",
+                "Centro",
+                "Custo",
+                "Configuração",
+                "Centros",
+                "Custos"
+            ]
         },
         {
             "modulo": "Configurações",
@@ -576,17 +718,35 @@
         {
             "modulo": "Configurações",
             "servico": "Configurações - Campos Personalizados",
-            "words": []
+            "words": [
+                "Configurações",
+                "Campos",
+                "Personalizados",
+                "Configuração",
+                "Campo",
+                "Personalizado"
+            ]
         },
         {
             "modulo": "Configurações",
             "servico": "Configurações - Cargos e Senioridades",
-            "words": []
+            "words": [
+                "Configurações",
+                "Cargos",
+                "Senioridades",
+                "Configuração",
+                "Cargo",
+                "Senioridade"
+            ]
         },
         {
             "modulo": "Configurações",
             "servico": "Configurações - Easycall",
             "words": [
+                "Configurações",
+                "Easycall",
+                "Configuração",
+                "Configurações - Easycall",
                 "ligar",
                 "ligações",
                 "ligação",
@@ -601,6 +761,7 @@
             "modulo": "Configurações",
             "servico": "Configurações - Gerenciador de Relatórios",
             "words": [
+                "Configurações - Gerenciador de Relatórios",
                 "configurações",
                 "gerenciador",
                 "configuração",
@@ -641,7 +802,9 @@
         {
             "modulo": "Configurações",
             "servico": "Configurações - Gestão de Equipes",
-            "words": []
+            "words": [
+                "Configurações - Gestão de Equipes"
+            ]
         },
         {
             "modulo": "Configurações",
@@ -652,7 +815,8 @@
                 "grupos",
                 "grupo",
                 "grupamento",
-                "grupamentos"
+                "grupamentos",
+                "Configurações - Grupos e Tags"
 
             ]
         },
@@ -660,6 +824,7 @@
             "modulo": "Configurações",
             "servico": "Configurações - Histórico de Ações",
             "words": [
+                "Configurações - Histórico de Ações",
                 "registro",
                 "registros",
                 "ações",
@@ -671,6 +836,7 @@
             "modulo": "Configurações",
             "servico": "Configurações - Informações e Segurança",
             "words": [
+                "Configurações - Informações e Segurança",
                 "logotipo",
                 "escritório",
                 "cnpj",
@@ -685,6 +851,7 @@
             "modulo": "Configurações",
             "servico": "Configurações - Minha Conta",
             "words": [
+                "Configurações - Minha Conta",
                 "acesso",
                 "acessos",
                 "configurações",
@@ -707,6 +874,7 @@
             "modulo": "Configurações",
             "servico": "Configurações - Tabela de Honorários",
             "words": [
+                "Configurações - Tabela de Honorários",
                 "tabela",
                 "honorário",
                 "honorários",
@@ -716,62 +884,86 @@
         {
             "modulo": "Configurações",
             "servico": "Configurações - Termos de Uso",
-            "words": []
+            "words": [
+                "Configurações - Termos de Uso"
+            ]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard",
-            "words": []
+            "words": [
+                 "Dashboard"
+            ]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Aniversariantes",
-            "words": []
+            "words": [
+                "Dashboard - Aniversariantes"
+            ]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Contratos",
-            "words": []
+            "words": [
+                "Dashboard - Contratos"
+            ]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Desempenho Usuário",
-            "words": []
+            "words": [
+                "Dashboard - Desempenho Usuário"
+            ]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Despesas Área",
-            "words": []
+            "words": [
+                "Dashboard - Despesas Área"
+            ]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Despesas Cliente",
-            "words": []
+            "words": [
+                "Dashboard - Despesas Cliente"
+            ]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Despesas Processuais",
-            "words": []
+            "words": [
+                "Dashboard - Despesas Processuais"
+            ]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - DRE",
-            "words": []
+            "words": [
+                "Dashboard - DRE"
+            ]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Faturamento",
-            "words": []
+            "words": [
+                "Dashboard - Faturamento"
+            ]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Faturamento Advogado",
-            "words": []
+            "words": [
+                "Dashboard - Faturamento Advogado"
+            ]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Faturamento Área",
-            "words": []
+            "words": [
+                "Dashboard - Faturamento Área"
+            ]
         },
         {
             "modulo": "Dashboard",
@@ -795,92 +987,107 @@
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Fluxo de Caixa",
-            "words": []
+            "words": [
+                "Dashboard - Fluxo de Caixa"
+            ]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Intimações e Publicações",
-            "words": []
+            "words": [
+                "Dashboard - Intimações e Publicações"
+            ]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Metas",
-            "words": []
+            "words": [
+                "Dashboard - Metas"
+            ]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Novos Negócios",
-            "words": []
+            "words": [
+                "Dashboard - Novos Negócios"
+            ]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Performance Eventos",
-            "words": []
+            "words": [
+                "Dashboard - Performance Eventos"
+            ]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Pessoas Tipo",
-            "words": []
+            "words": [
+                "Dashboard - Pessoas Tipo"
+            ]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Pontuação",
-            "words": []
+            "words": [
+                "Dashboard - Pontuação"
+            ]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Processos Advogado",
-            "words": []
+            "words": ["Dashboard - Processos Advogado"]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Processos Área",
-            "words": []
+            "words": ["Dashboard - Processos Área"]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Processos Status",
-            "words": []
+            "words": ["Dashboard - Processos Status"]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Projetos Consultivos",
-            "words": []
+            "words": ["Dashboard - Projetos Consultivos"]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Provisionamento",
-            "words": []
+            "words": ["Dashboard - Provisionamento"]
         },
         {
             "modulo": "Dashboard",
             "servico": "Dashboard - Timesheet",
-            "words": []
+            "words": ["Dashboard - Timesheet"]
         },
         {
             "modulo": "Despesas e Suprimentos",
             "servico": "Despesas e Suprimentos - Debits e Compras",
-            "words": []
+            "words": ["Despesas e Suprimentos - Debits e Compras"]
         },
         {
             "modulo": "Despesas e Suprimentos",
             "servico": "Despesas e Suprimentos - Estoque de Suprimentos",
-            "words": []
+            "words": ["Despesas e Suprimentos - Estoque de Suprimentos"]
         },
         {
             "modulo": "Despesas e Suprimentos",
             "servico": "Despesas e Suprimentos - Requisição de Suprimentos",
-            "words": []
+            "words": ["Despesas e Suprimentos - Requisição de Suprimentos"]
         },
         {
             "modulo": "Exclusão de Dados",
             "servico": "Exclusão de Dados",
-            "words": []
+            "words": ["Exclusão de Dados"]
         },
         {
             "modulo": "FAQ | Treinamentos",
             "servico": "FAQ - Treinamentos - Legal Academy",
             "words": [
+                "FAQ - Treinamentos - Legal Academy",
                 "curso",
                 "treinamento",
                 "legal academy",
@@ -901,6 +1108,7 @@
             "modulo": "Financeiro",
             "servico": "Financeiro - Contas Bancárias",
             "words": [
+                "Financeiro - Contas Bancárias",
                 "pagamento",
                 "pagamentos",
                 "pago",
@@ -920,6 +1128,7 @@
             "modulo": "Financeiro",
             "servico": "Financeiro - Contratos",
             "words": [
+                "Financeiro - Contratos",
                 "pagamento",
                 "pagamentos",
                 "pago",
@@ -939,6 +1148,7 @@
             "modulo": "Financeiro",
             "servico": "Financeiro - Despesas",
             "words": [
+                "Financeiro - Despesas",
                 "despesa",
                 "despesas",
                 "pagamento",
@@ -1024,6 +1234,7 @@
             "modulo": "Financeiro",
             "servico": "Financeiro - DRE",
             "words": [
+                "Financeiro - DRE",
                 "pagamento",
                 "pagamentos",
                 "pago",
@@ -1043,6 +1254,7 @@
             "modulo": "Financeiro",
             "servico": "Financeiro - Emissão de Boleto",
             "words": [
+                "Financeiro - Emissão de Boleto",
                 "pagamento",
                 "pagamentos",
                 "pago",
@@ -1068,6 +1280,7 @@
             "modulo": "Financeiro",
             "servico": "Financeiro - Fluxo de Caixa",
             "words": [
+                "Financeiro - Fluxo de Caixa",
                 "pagamento",
                 "pagamentos",
                 "pago",
@@ -1087,6 +1300,7 @@
             "modulo": "Financeiro",
             "servico": "Financeiro - Nota fiscal",
             "words": [
+                "Financeiro - Nota fiscal",
                 "nota",
                 "emissão",
                 "fiscal",
@@ -1103,6 +1317,7 @@
             "modulo": "Financeiro",
             "servico": "Financeiro - Provisionamento",
             "words": [
+                "Financeiro - Provisionamento",
                 "pagamento",
                 "pagamentos",
                 "pago",
@@ -1122,6 +1337,7 @@
             "modulo": "Financeiro",
             "servico": "Financeiro - Receitas",
             "words": [
+                "Financeiro - Receitas",
                 "pagamento",
                 "pagamentos",
                 "pago",
@@ -1201,6 +1417,7 @@
             "modulo": "Financeiro",
             "servico": "Financeiro - Split - Asaas",
             "words": [
+                "Financeiro - Split - Asaas",
                 "pagamento",
                 "pagamentos",
                 "pago",
@@ -1219,42 +1436,45 @@
         {
             "modulo": "Gestão Estratégica",
             "servico": "Gestão Estratégica - Análise SWOT",
-            "words": []
+            "words": [
+                "Gestão Estratégica - Análise SWOT"
+            ]
         },
         {
             "modulo": "Gestão Estratégica",
             "servico": "Gestão Estratégica - Manual de Procedimentos",
-            "words": []
+            "words": ["Gestão Estratégica - Manual de Procedimentos"]
         },
         {
             "modulo": "Gestão Estratégica",
             "servico": "Gestão Estratégica - Marketing",
-            "words": []
+            "words": ["Gestão Estratégica - Marketing"]
         },
         {
             "modulo": "Gestão Estratégica",
             "servico": "Gestão Estratégica - Metas e Orçamentos",
-            "words": []
+            "words": ["Gestão Estratégica - Metas e Orçamentos"]
         },
         {
             "modulo": "Gestão Estratégica",
             "servico": "Gestão Estratégica - Modelo de Negócio",
-            "words": []
+            "words": ["Gestão Estratégica - Modelo de Negócio"]
         },
         {
             "modulo": "Gestão Estratégica",
             "servico": "Gestão Estratégica - Planejamento Estratégico",
-            "words": []
+            "words": ["Gestão Estratégica - Planejamento Estratégico"]
         },
         {
             "modulo": "Gestão Estratégica",
             "servico": "Gestão Estratégica - Segmentação de Mercado",
-            "words": []
+            "words": ["Gestão Estratégica - Segmentação de Mercado"]
         },
         {
             "modulo": "Informações de API",
             "servico": "Informações de API",
             "words": [
+                "Informações de API",
                 "integração",
                 "API",
                 "api",
@@ -1298,7 +1518,7 @@
         {
             "modulo": "Integração do Site do Escritório com o EasyJur",
             "servico": "Integração do Site do Escritório com o EasyJur",
-            "words": []
+            "words": ["Integração do Site do Escritório com o EasyJur"]
         },
         {
             "modulo": "Juris.Ai",
@@ -1323,12 +1543,12 @@
         {
             "modulo": "Legal Analytic",
             "servico": "Legal Analytic",
-            "words": []
+            "words": ["Legal Analytic"]
         },
         {
             "modulo": "Legal Analytics",
             "servico": "Legal Analytics - Contencioso",
-            "words": []
+            "words": ["Legal Analytics - Contencioso"]
         },
         {
             "modulo": "Lentidão/Travamento",
@@ -1365,6 +1585,7 @@
             "modulo": "Mensagens",
             "servico": "Mensagens",
             "words": [
+                "Mensagens",
                 "mensagem",
                 "mensagens",
                 "sistema"
@@ -1373,12 +1594,13 @@
         {
             "modulo": "Movimentações",
             "servico": "Movimentações - Ação em Massa",
-            "words": []
+            "words": ["Movimentações - Ação em Massa"]
         },
         {
             "modulo": "Movimentações",
             "servico": "Movimentações - Andamentos",
             "words": [
+                "Movimentações - Andamentos",
                 "andamento",
                 "tribunal",
                 "push",
@@ -1392,6 +1614,7 @@
             "modulo": "Movimentações",
             "servico": "Movimentações - Cadastro de Prazo",
             "words": [
+                "Movimentações - Cadastro de Prazo",
                 "prazo",
                 "cadastro",
                 "tarefas",
@@ -1407,6 +1630,7 @@
             "modulo": "Movimentações",
             "servico": "Movimentações - Intimações",
             "words": [
+                "Movimentações - Intimações",
                 "intimação",
                 "intimações",
                 "intimaçao",
@@ -1438,6 +1662,7 @@
             "modulo": "Movimentações",
             "servico": "Movimentações - Processos Distribuídos",
             "words": [
+                "Movimentações - Processos Distribuídos",
                 "processo",
                 "processos",
                 "distribuido",
@@ -1451,6 +1676,7 @@
             "modulo": "Movimentações",
             "servico": "Movimentações - Publicações",
             "words": [
+                "Movimentações - Publicações",
                 "publicação",
                 "publicações"
 
@@ -1460,6 +1686,7 @@
             "modulo": "Notificações",
             "servico": "Notificações",
             "words": [
+                "Notificações",
                 "notificação",
                 "notificações"
             ]
@@ -1468,6 +1695,7 @@
             "modulo": "Notificações",
             "servico": "Notificações do Sistema",
             "words": [
+                "Notificações do Sistema",
                 "notificação",
                 "notificações"
             ]
@@ -1476,6 +1704,7 @@
             "modulo": "Novos Negócios",
             "servico": "Novos Negócios - Cadastro",
             "words": [
+                "Novos Negócios - Cadastro",
                 "cadastro",
                 "cadastros",
                 "Novos",
@@ -1488,6 +1717,7 @@
             "modulo": "Novos Negócios",
             "servico": "Novos Negócios - Pesquisa Avançada",
             "words": [
+                "Novos Negócios - Pesquisa Avançada",
                 "Novos",
                 "Negócios",
                 "Novo",
@@ -1510,6 +1740,7 @@
             "modulo": "Novos Negócios",
             "servico": "Novos Negócios - Relatório",
             "words": [
+                "Novos Negócios - Relatório",
                 "excel",
                 "pdf",
                 "csv",
@@ -1544,17 +1775,18 @@
         {
             "modulo": "Outros Assuntos",
             "servico": "Outros Assuntos",
-            "words": []
+            "words": ["Outros Assuntos"]
         },
         {
             "modulo": "Pessoas",
             "servico": "Pessoas - Cadastro",
-            "words": []
+            "words": ["Pessoas - Cadastro"]
         },
         {
             "modulo": "Pessoas",
             "servico": "Pessoas - Relatório",
             "words": [
+                "Pessoas - Relatório",
                 "pessoas",
                 "pessoa",
                 "excel",
@@ -1591,12 +1823,17 @@
         {
             "modulo": "Processos",
             "servico": "Processos - Ação em Massa",
-            "words": []
+            "words": [
+                "Processos - Ação em Massa",
+                "ação",
+                "massa"
+            ]
         },
         {
             "modulo": "Processos",
             "servico": "Processos - Cadastro",
             "words": [
+                "Processos - Cadastro",
                 "numero",
                 "número",
                 "numeros",
@@ -1633,17 +1870,20 @@
         {
             "modulo": "Processos",
             "servico": "Processos - Financeiro",
-            "words": []
+            "words": [
+                "Processos - Financeiro"
+            ]
         },
         {
             "modulo": "Processos",
             "servico": "Processos - Partes do processo",
-            "words": []
+            "words": ["Processos - Partes do processo"]
         },
         {
             "modulo": "Processos",
             "servico": "Processos - Pesquisa Avançada",
             "words": [
+                "Processos - Pesquisa Avançada",
                 "pesquisa",
                 "pesquisar",
                 "filtrar",
@@ -1662,6 +1902,7 @@
             "modulo": "Processos",
             "servico": "Processos - Relatório",
             "words": [
+                "Processos - Relatório",
                 "processo",
                 "processos",
                 "excel",
@@ -1698,32 +1939,33 @@
         {
             "modulo": "Produção Jurídica",
             "servico": "Produção Jurídica - Biblioteca",
-            "words": []
+            "words": ["Produção Jurídica - Biblioteca"]
         },
         {
             "modulo": "Produção Jurídica",
             "servico": "Produção Jurídica - Documentos",
-            "words": []
+            "words": ["Produção Jurídica - Documentos"]
         },
         {
             "modulo": "Produção Jurídica",
             "servico": "Produção Jurídica - Jurisprudência",
-            "words": []
+            "words": ["Produção Jurídica - Jurisprudência"]
         },
         {
             "modulo": "Produção Jurídica",
             "servico": "Produção Jurídica - Legal Design",
-            "words": []
+            "words": ["Produção Jurídica - Legal Design"]
         },
         {
             "modulo": "Projetos Consultivos",
             "servico": "Projetos Consultivos - Cadastro",
-            "words": []
+            "words": ["Projetos Consultivos - Cadastro"]
         },
         {
             "modulo": "Projetos Consultivos",
             "servico": "Projetos Consultivos - Pesquisa Avançada",
             "words": [
+                "Projetos Consultivos - Pesquisa Avançada",
                 "pesquisa",
                 "pesquisar",
                 "filtrar",
@@ -1742,6 +1984,7 @@
             "modulo": "Projetos Consultivos",
             "servico": "Projetos Consultivos - Relatório",
             "words": [
+                "Projetos Consultivos - Relatório",
                 "projetos",
                 "projeto",
                 "consultivos",
@@ -1781,6 +2024,7 @@
             "modulo": "Relatório",
             "servico": "Relatório - Módulo Beta",
             "words": [
+                "Relatório - Módulo Beta",
                 "excel",
                 "pdf",
                 "csv",
@@ -1816,6 +2060,7 @@
             "modulo": "Relatórios",
             "servico": "Relatórios - Automação",
             "words": [
+                "Relatórios - Automação",
                 "excel",
                 "pdf",
                 "csv",
@@ -1878,6 +2123,7 @@
             "modulo": "Solicitação de Cancelamento",
             "servico": "Solicitação de Cancelamento",
             "words": [
+                "Solicitação de Cancelamento",
                 "cancelar",
                 "cancelamento",
                 "desativação",
@@ -1896,6 +2142,7 @@
             "modulo": "Treinamento CX",
             "servico": "Treinamento CX - Consultoras",
             "words": [
+                "Treinamento CX - Consultoras",
                 "treinamento",
                 "cx",
                 "colaborador",
@@ -1908,6 +2155,7 @@
             "modulo": "Encaminhado ao Financeiro",
             "servico": "Encaminhado ao Financeiro - Mensalidade EasyJur",
             "words": [
+                "Encaminhado ao Financeiro - Mensalidade EasyJur",
                 "boleto",
                 "easyjur",
                 "fsantos@easyjur.com",
@@ -1929,6 +2177,7 @@
             "modulo": "Encaminhado ao Financeiro",
             "servico": "Encaminhado ao Financeiro - Renovação",
             "words": [
+                "Encaminhado ao Financeiro - Renovação",
                 "boleto",
                 "easyjur",
                 "fsantos@easyjur.com",
